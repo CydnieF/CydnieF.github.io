@@ -52,7 +52,7 @@ Reflecting on the Enhancement Process
 
 ### **Repository Link**
 
-- [Enhancement One Repository](https://github.com/BrettSoden/EnhancementOne-Software-Design-and-Engineering)
+- [Enhancement One Repository](https://github.com/CydnieF/CS499/tree/main/Enhancement%20One)
 
 
 # **Enhancement Two: Algorithms and Data Structures**
@@ -84,7 +84,7 @@ Reflecting on the Enhancement Process:
 
 ### **Repository Link**
 
-- [Enhancement Two Repository](https://github.com/BrettSoden/EnhancementTwo-Algorithms-and-Data-Structure)
+- [Enhancement Two Repository](https://github.com/CydnieF/CS499/tree/main/Enhancement%20Two)
 
 
 # **Enhancement Three: Databases**
@@ -119,8 +119,8 @@ By completing this enhancement, I have met the following course outcomes:
 
 ### **Repository Link**
 
-- [Enhancement Three Repository](https://github.com/BrettSoden/Enhancement-Three-Databases)
+- [Enhancement Three Repository](https://github.com/CydnieF/CS499/tree/main/Enhancement%20Three)
 
 ### **GitHub Pages Link**
 
-- [CS-499 ePortfolio](https://brettsoden.github.io/)
+- [CS-499 ePortfolio](https://github.com/CydnieF/CydnieF.github.io)
