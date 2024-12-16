@@ -3,71 +3,41 @@
 
 
 ## **Introduction**
-   Hello my name is Brett Soden, and I started attending SNHU's computer science two years ago. 
-   This gitHub pages account is meant to provide an electronic portfolio from which I finish
-   my final project for CS-499 and compelete my Bachelor's degree in computer science.  
 
 
-## **Education Review**
-   Compeleting my coursework for this class has led me to appreciate the importance of reviewing 
-   and polishing one's work in a professional manner.  This review process can often include 
-   removing and rewriting unnecessarily complicated code, adding comments, and increasing a program's     
-   capabilities.  During the course of this class, I have enhanced my artifacts through the addition 
-   of testing modules for secure coding, new functions for database CRUD funcitonality, and increased
-   complexity in list search function for an appointment scheduler. 
-   
-   Collaborating in a team environment has also allowed me to gain an appreciation for the ability to 
-   have a new pair of eyes review my work.  Often I can get too close to a project, and lose the ability
-   to look at my work objectively, but having another reviewer can reveal previously unseen mistakes
-   and advice for possible improvements.  Additionally the ability to communicate with stakeholders and
-   and discover what they want in a project, has been a focus of my work in this class and has reinforced 
-   my belief that the most important part of the software development lifecycle is when the requirements
-   for the project are being decided on during discussion with stakeholder, programmers, project leads,
-   and end users.
+   Hello, my name is Cydnie Fisher. I began my process of obtaining my bachelor’s in computer science from SNHU in June of 2023 and will complete it in December of 2024. This page serves to demonstrate how my understanding of software design and engineering, algorithms and data structure, and databases has increased during my time here at SNHU. 
 
 
-## **Artifacts**
-   The artifacts presented for the portfolio are introductions to my work for software design and 
-   engineering, algorithms and data structures, and databases.  Through the course of the class, I 
-   have improved my artifacts software, expanded their complexity, and added comments to make their code
-   easier to read.
+## **Professional Self-Assessment**
+
+
+	When I began my bachelor's in computer science I had very little knowledge regarding developing code and creating projects. SNHU has allowed me to become confident in my programming abilities by providing me with knowledge in the most commonly used programming languages and back-end and front-end development. This has allowed me to feel prepared to enter the workforce. Submitting assignments to my ePortfolio also allows me to begin my career journey with plenty of completed assignments that showcase my competency in programming. 
+	While I completed my degree online, a collaborative environment was still fostered through the usage of discussion posts, where I would post my initial post, respond to some of my classmates, and read their responses to my post. These discussion posts often aligned with the topics used for the assignments, which would allow me to think about the topic at hand from the perspective of my classmates. While there wasn’t direct communication with stakeholders, every assignment came outlined with specific requirements that needed to be met, and feedback would be provided by the professor if these requirements weren’t met. This mimics communicating with stakeholders to determine program requirements and if those requirements have been met.
+	I have also learned about how to communicate in a professional manner, software design and engineering, algorithms and data structures, databases, and security. My ability to communicate in a professional manner is evident in my code review where I analyze previous code and discuss how to improve it. It is also evident in this write-up where I discuss my growth and my enhancement process for all three categories. My understanding of software design and engineering is evident in my first enhancement where I demonstrate my knowledge in both Java and Python. My understanding of algorithms and data structures is evident in my second enhancement category where I increased the efficiency of my data structure. Finally, the third enhancement category showcases my understanding of databases and security where MongoDB was implemented as well as role-based access control. Overall, this write-up, my code review, and the three enhancement categories demonstrate a diverse understanding of the most important concepts in computer science. 
+
+
     
 # **Code Review**
+   In the following code review, I begin by analyzing the code that I previously wrote in a clear and professional manner. I discuss code functionality, what was done right or wrong, and how I will implement necessary changes to ensure I meet all of the required course outcomes. In doing so, I meet the following course criteria:
+•	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
 
-[Code Review Youtube Link](https://youtu.be/QkBVTYdm2vQ)
+[Code Review](https://youtu.be/h_LfBpZaTKY)
 
 # **Enhancement One: Software Design and Engineering**
 
-   The artifact for the software design and engineering category is my final project from 
-CS-320 that I completed on April 18, 2021.  It is a medical application that is used to 
-schedule appointments, collect contact information, and provide a list of tasks to be 
-completed.  The goal of this class was to complete an application that automated the 
-process of collecting information and provided module testing in the form of JUnit tests 
-that made sure the information entered was correct and did not result in an error like 
-buffer overflow.
-
-   This item was selected because it is a good example of testing, data collection, and software 
-application, all in one.  The junit tests, private helper methods, appropriate access modifiers
-and limits on parameters are components of the artifact that showcase my ability to develop a 
-syntactically accurate, logical, and efficient application.  The artifact is improved by 
-expanding the scope of the junit tests and search modules. 
-
-   In the original project, JUnit tests focused on the assert true method that a variable was 
-within its projected parameters.  Twice as many JUnit tests were added that provided
-an assert false method which tested for data that was outside the scope of my earlier tests.  
-New variables were also added like the first and last names to attach to the list which kept track of
-appointment for my medical app.  This list was originally only designed to look up a unique 
-identification by searching through the list, but I added several more search methods which applied
-to all the other variables listed.
-
-   For this artifact, most of the course objectives were met. The syntax of my project was improved
-and expanded in its scope. I do not currently have any further updates to my outcome-coverage plans. 
-
-   When enhancing this project I learned to stay within the bounds of the project and not to become too 
-ambitions.  The areas of my project that I focused on seemed like they were common sense improvements
-and extensions.  It also helped that I hadn’t looked at my project for some months and could look at
-it with fresh eyes. The only challenges that I faced were attempting to get tests to function properly
-and test the correct data.  
+Artifact Description:
+The artifact I chose for the first enhancement category is the final project for IT145 Foundations in App Development. This artifact was written in Java in February of 2023 a search and rescue company, Grazioso Salvare. This application allows them to intake new animals, reserve animals for rescue missions, and print lists of animals based on animal type and reserve status. Once an animal is reserved, it can be sent out on a rescue mission to save humans from dangerous, and potentially life-threatening, situations. 
+Why This Artifact Was Selected:
+	This artifact was one of the first programs I completed during my bachelor’s degree. I feel that I have grown a lot as a developer since then, and enhancing this program was an excellent way to demonstrate this growth. This program showcases some of the essential concepts in programming: handling user input, storing data entered by the user, and accurately returning the data to the user. While it functions per the requests of the initial requirements, there was still plenty of room for improvement. This program lacked proper data validation and error handling, had redundant code, leftover comments and methods used for testing, and undescriptive comments. I also wanted to use this program to showcase my understanding of Java and Python by converting the program. 
+Artifact Improvement and Skills Showcased:
+	The first enhancement I made was converting the program from Python to Java. This was done without losing any functionality, which demonstrates a mastery of both languages. I also implemented robust data validation and error handling, showcasing my ability to create a program that appropriately handles errors as they occur, without disrupting the program. This was done through the addition of helper functions used to verify that the correct values are entered by the user. I also removed redundant code through the use of helper functions that are called upon when needed, removed any unnecessary code, and enhanced the descriptiveness of the comments. These changes demonstrate my ability to create a scalable and easy to maintain program. 
+Course Outcomes Met:
+By completing this enhancement, I have met the following course outcomes:
+•	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  
+o	Python is a widely known language with easy to understand syntax. Converting the program to Python broadens its accessibility and promotes an inclusive, collaborative environment. Removing unnecessary comments and adding more descriptive ones instead increases the readability of the code, making the program easier to understand, even for people with limited experience in coding. 
+Reflecting on the Enhancement Process
+	I began the enhancement process by converting the program from Python to Java. This gave me some difficulties due to the majority of my courses focusing on Java and C++. I found myself having to reference previous work to remind myself of proper Python Syntax. This was also the case when incorporating data validation and error handling. Utilizing helper functions to remove redundant code, removing unnecessary code, and enhancing the descriptiveness of the comments was straightforward and therefore did not cause any issues. 
+ 
 
 ### **Repository Link**
 
@@ -76,32 +46,19 @@ and test the correct data.
 
 # **Enhancement Two: Algorithms and Data Structures**
 
-The artifact used for the algorithms and data structure category is a project from CS-405 
-that was completed on August 8th, 2021. It is a test module that was designed to search a collection of 
-entries in a data structure for functionality and exploitable weaknesses. 
+Artifact Description:
+The artifact I chose for the second enhancement category is the final project for IT145 Foundations in App Development. This artifact was written in Java in February of 2023 for a search and rescue company, Grazioso Salvare. This application allows them to intake new animals, reserve animals for rescue missions, and print lists of animals based on animal type and reserve status. Once an animal is reserved, it can be sent out on a rescue mission to save humans from dangerous, and potentially life-threatening, situations. I will continue to build off the work completed in the first enhancement category. 
+Why This Artifact Was Selected:
+	The original artifact showcases a basic understanding in data structures, with room for improvement. Animals and their perspective attributes are stored in an array list, which has a runtime complexity of O(n) when iterating through the array list to search for animals. Since this is commonly completed within the program, I wanted to decrease the runtime complexity. I also noticed that the original artifact did not take appropriate measures to ensure the same animal wasn’t added into the system more than once. If the animal shared the same name as another animal, it couldn’t be added into the system. This isn’t practical since animals don’t always have unique names.  
+Artifact Improvement and Skills Showcased:
+	The first enhancement I made was switching the data structure from an array list to a dictionary and implementing unique IDs. This unique ID is assigned to the animal as they are first entered into the system and can be used to find them when searching through the dictionary. These changes subsequentially reduce the runtime complexity when iterating through the data structure from O(n) to O(1), therefore increasing the efficiency of the program. This demonstrates an in-depth understanding of data structures and algorithms. I also reworked how duplicate animals were determined. Instead of the program assuming that if an animal shares the same name, it is the same animal, the program now compares all attributes. Lastly, I implemented a helper function that is called upon when reserving an animal previously unreserved in the system. This helper function ensures that if two animals of the same type share the same name, the intended animal is marked as reserved. 
+Course Outcomes Met:
+By completing this enhancement, I have met the following course outcomes:
+•	Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.  
+o	Replacing the array lists with dictionaries, and incorporating unique IDs to search through the dictionary, decreased the runtime complexity from O(n) to O(1), and therefore increased the efficiency of the program using algorithmic principles. Incorporating a way for the program to ensure that the same animal can’t be added more than once increases data handling, following computer science practices. Furthermore, ensuring that the appropriate animal is reserved when multiple animals of the same animal type share the same name increases data handling. 
+Reflecting on the Enhancement Process
+I began the enhancement process by implementing dictionaries instead of array lists. This process was straightforward, but it did require me to rework how animals were added into the system and searched for. I then incorporated unique IDs, which required me to research how to do so automatically, without help from the user. I then moved on to implementing the helper function used to determine if an animal is already in the system. I initially compared all attributes, without realizing that comparing the unique IDs would result in all animals being deemed as new. This required me to rewrite the function so it would avoid comparing the unique IDs. When further testing my program, I discovered that if two animals shared the same name when reserving animals, the first animal found would be automatically reserved. To mitigate this, I altered the reserve animals function so that it would display all of the animals with the same name and allow the user to choose the appropriate animals. 
 
-This artifact was selected, because it is an excellent example of secure coding practices being used to 
-protect data structures and algorithms.  One of the major weaknesses of any publicly available service 
-application is the exploitability of its interface.  A common attack made on these applications is a 
-buffer overflow attack that allows a malicious hacker to overflow an input’s parameters for a denial of 
-service attack or attempt to access the application’s data.  
-
-In the original project, mostly positive assertions were included for the tests because that was what was 
-required for completion.  For this artifact however, the amount and variety of tests were increased that applied
-in the testing module.  Most of the tests that were included in the pre-enhancement artifact were positive
-asserts that verified something was true about a sample collection of entries like its max size is greater 
-than ten.  For this enhancement, more tests were introduced that tested a negative or in other words verified 
-that a given assertions was false.  
-
-The course objectives were completed for enhancing this artifact.  I improved the complexity and
-number of tests that were used to ensure the collection’s data structures and algorithm parameters were 
-properly protected. I do not currently have any updates on my outcome-coverage plans. 
-
-When I was enhancing my artifact, I learned to appreciate adding to a project that I worked on weeks ago.  
-When I completed the activity that this artifact was based on, I only did what was necessary to complete 
-the assignment and get a satisfactory grade but being able to return to my previous work and improve it 
-helpedme to appreciate the original purpose and scope of CS-405. I also struggled with trying to remember 
-the nuances of the assignment it was based off even though I only completed it a month ago.  
 
 ### **Repository Link**
 
@@ -110,29 +67,21 @@ the nuances of the assignment it was based off even though I only completed it a
 
 # **Enhancement Three: Databases**
 
-The artifact used for the databases category is a project from CS-340 that was completed 
-on June 6th, 2021.  It is a python file that was designed to interact with pymongo to work as the
-back end structure of an interactive database for animal rescue centers.  The pre-enhancement 
-artifact contains basic CRUD functionality while the post-enhancement artifact contains more 
-advanced SQL functions.
+Artifact Description
+The artifact I chose for the first enhancement category is the final project for IT145 Foundations in App Development. This artifact was written in Java in February of 2023 for a search and rescue company, Grazioso Salvare. This application allows them to intake new animals, reserve animals for rescue missions, and print lists of animals based on animal type and reserve status. Once an animal is reserved, it can be sent out on a rescue mission to save humans from dangerous, and potentially life-threatening, situations. 
+Why This Artifact Was Selected
+	The original artifact stored animals in array lists, which would clear their data once the program ended. This would be very inefficient for a company that would need to continually use this data. I chose this artifact so I could implement a database, which would continually store the animals, making the program significantly more useful. I also realized that the original program only implemented create and read functionality. I wanted to increase the usefulness of the program by also implementing update and delete functionality, completing CRUD. I also noticed that there was no security, so I wanted to implement role-based access control, which will ensure that only users with specific roles can alter the database. Lastly, when the data was output to the user, it was output as a list which is hard to navigate. I wanted to mitigate this by implementing a dashboard. 
+Artifact Improvement and Skills Showcased
+	I began this enhancement process by implementing MongoDB and completing the rest of the CRUD functionality in a manner that allowed it to interact with MongoDB rather than a data structure. I closely followed the steps taken to implement MongoDB in my previous database class, CS340. While this was relatively straightforward, I initially ran into an issue where each time I ran the program, the data within the JSON file would be added back into the database, resulting in duplicate data. This was mitigated by ensuring that the program would check for duplicate data when importing data. Creating a functioning database with CRUD functionality showcases my understanding of databases. I then created a dashboard that can be used to better visualize and sort through data. This showcases my ability to use innovative techniques to increase the functionality of a program. Lastly, I implemented role-based access control to limit user functionality based on their role. This showcases my ability to increase the security of a program.
+Course Outcomes Met
+By completing this enhancement, I have met the following course outcomes:
+•	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
+o	Using MongoDB instead of storing animals in an array list, and completing the implementation of CRUD functionality increases the value of my application. Animal data is now persistent once the program ends, and can now be updated or deleted as needed.
+o	Utilizing a dashboard for data visualization allows the user to interact with the data in a more practical way. 
+•	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
+o	Security of the program has been enhanced by implementing role-based access control. This ensures users can only access the CRUD functionality that they have access to, inhibiting certain users from altering the data within the database. 	
 
-This project was selected as my third artifact because it is an excellent example of how databases 
-are constructed at the back end.  The information contained within these databases is searched and
-modified by commonly used languages like python. The inclusion of create, read, update, and delete 
-SQL functionality along with additional improvements like count, insert multiple, update multiple,
-and delete multiple commands were significant refinements made to my artifact in the enhancement phase.
-These enhancements showcase the ability to expand upon and update SQL and python data structure code. 
 
-I feel like I completed all the course objectives that I was meant to complete for this milestone.  
-I improved the complexity of my artifact and updated its functionality to include count, delete multiple,
-insert multiple, and update multiple SQL commands.  I do not currently have any updates to my outcome 
-coverage plans.  
-
-When I was enhancing my project, I learned to appreciate both basic and advanced SQL commands especially
-when it came to CRUD or create, read, update, and delete.  Just including those four SQL functions in my
-python code allowed me to create a functional database for animal rescues in my original project.  After 
-updating my code, I learned just how much a few changes can influence the final design of my project for 
-the better. 
 
 ### **Repository Link**
 
