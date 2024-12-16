@@ -5,7 +5,7 @@
 ## **Introduction**
 
 
-   Hello, my name is Cydnie Fisher. I began my process of obtaining my bachelor’s in computer science from SNHU in June of 2023 and will complete it in December of 2024. This page serves to demonstrate how my understanding of software design and engineering, algorithms and data structure, and databases has increased during my time here at SNHU. 
+   Hello, my name is Cydnie Fisher. I began my process of obtaining my bachelor’s in computer science from SNHU in June of 2023 and will complete it in December of 2024. This page serves to demonstrate how my understanding of software design and engineering, algorithms and data structure, and databases has increased during my time here at SNHU.  
 
 
 ## **Professional Self-Assessment**
