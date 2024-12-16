@@ -2,13 +2,14 @@
 
 
 
+
 ## **Introduction**
 
 
    Hello, my name is Cydnie Fisher. I began my process of obtaining my bachelor’s in computer science from SNHU in June of 2023 and will complete it in December of 2024. This page serves to demonstrate how my understanding of software design and engineering, algorithms and data structure, and databases has increased during my time here at SNHU.  
 
 
-## **Professional Self-Assessment**
+# **Professional Self-Assessment**
 
    When I began my bachelor's in computer science I had very little knowledge regarding developing code and creating projects. SNHU has allowed me to become confident in my programming abilities by providing me with knowledge in the most commonly used programming languages and back-end and front-end development. This has allowed me to feel prepared to enter the workforce. Submitting assignments to my ePortfolio also allows me to begin my career journey with plenty of completed assignments that showcase my competency in programming. 
    
@@ -43,6 +44,7 @@ Course Outcomes Met:
 By completing this enhancement, I have met the following course outcomes:
 
    • Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science. 
+   
    o Python is a widely known language with easy to understand syntax. Converting the program to Python broadens its accessibility and promotes an inclusive, collaborative environment. Removing unnecessary comments and adding more descriptive ones instead increases the readability of the code, making the program easier to understand, even for people with limited experience in coding. 
  
 Reflecting on the Enhancement Process
